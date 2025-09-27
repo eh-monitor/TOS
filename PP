@@ -1,0 +1,91 @@
+Privacy Policy – EH-Monitor Team Bot
+
+Last updated: 27.9.2025
+
+
+
+
+1. Introduction
+
+This Privacy Policy explains how the EH-Monitor Team Bot (hereafter referred to as the Bot) handles and stores data when you use it on Discord servers.
+
+
+---
+
+2. Data We Collect
+
+The Bot may collect and temporarily store the following information:
+
+Discord IDs (user, server, channel, role) for configuration and permissions.
+
+Ticket & command inputs (e.g., reasons for support tickets, server settings).
+
+Configuration settings (channels, roles, embed messages, server preferences).
+
+
+
+---
+
+3. How We Use the Data
+
+To provide the Bot’s functionality (ticket system, monitoring, team support).
+
+To ensure only authorized users (staff/admins) can access certain features.
+
+To improve stability, troubleshoot errors, and maintain the service.
+
+
+
+---
+
+4. Data Sharing
+
+Data is never sold or shared with third parties.
+
+Data is only accessible to the Bot owner/developers when necessary for support or debugging.
+
+
+
+---
+
+5. Data Storage & Retention
+
+Data is stored securely in our systems or database.
+
+Temporary information (such as ticket reasons) may be deleted automatically once the ticket or related process is closed.
+
+You may request deletion of your server’s data at any time (see Section 7).
+
+
+
+---
+
+6. Security
+
+We take reasonable steps to protect data from unauthorized access or misuse.
+However, no system is 100% secure, and we cannot guarantee absolute security.
+
+
+---
+
+7. Your Rights
+
+You may request deletion of stored data related to your server by contacting the Bot owner.
+
+You may stop all data collection by removing the Bot from your server.
+
+
+
+---
+
+8. Changes to the Policy
+
+This Privacy Policy may be updated at any time. If significant changes are made, we will provide notice in the support server.
+
+
+---
+
+9. Contact
+
+For questions, data deletion requests, or support, please use the official support server:
+👉 https://discord.gg/RKKS8RzaMv
